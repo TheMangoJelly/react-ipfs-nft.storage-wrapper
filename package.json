@@ -1,0 +1,31 @@
+{
+  "name": "@themangojelly/react-ipfs-nft.storage-wrapper",
+  "version": "0.0.1",
+  "description": "React wrapper on NFT.Storage",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TheMangoJelly/react-ipfs-nft.storage-wrapper.git"
+  },
+  "keywords": [
+    "themangojelly",
+    "themangojelly.com",
+    "react",
+    "ipfs",
+    "nft.storage",
+    "nft",
+    "storage"
+  ],
+  "author": {
+    "name" : "Rohit Kashyap",
+    "url" : "https://themangojelly.com/@rohit"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/TheMangoJelly/react-ipfs-nft.storage-wrapper/issues"
+  },
+  "homepage": "https://github.com/TheMangoJelly/react-ipfs-nft.storage-wrapper#readme"
+}
